@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.finalproject.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_memorizationCenters"
+        android:name="com.example.finalproject.ui.memorizationcenters.MemorizationCentersFragment"
+        android:label="MemorizationCenters"
+        tools:layout="@layout/memorizationcentersfragment" />
+
+    <fragment
+        android:id="@+id/nav_allData"
+        android:name="com.example.finalproject.ui.alldata.AllDataFragment"
+        android:label="AllData"
+        tools:layout="@layout/alldatafragment" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.finalproject.ui.settings.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_studentSms"
+        android:name="com.example.finalproject.ui.studentSms.StudentSmsFragment"
+        android:label="StudentSms"
+        tools:layout="@layout/fragment_student_sms" />
+</navigation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_memorizationCenters"
+            android:icon="@drawable/ic_baseline_home_work_24"
+            android:title="@string/MemorizationCenters" />
+        <item
+            android:id="@+id/nav_allData"
+            android:icon="@drawable/ic_baseline_store_mall_directory_24"
+            android:title="@string/AllData" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/Settings" />
+
+        <item
+            android:id="@+id/nav_studentSms"
+            android:icon="@drawable/ic_baseline_message_24"
+            android:title="@string/StudentSms" />
+    </group>
+</menu>

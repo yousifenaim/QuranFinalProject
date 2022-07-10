@@ -1,0 +1,93 @@
+<resources>
+
+
+    <string name="app_name">Quran flower</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+
+
+    <string-array name="language">
+        <item> language </item>
+        <item> Arabic </item>
+        <item> English </item>
+    </string-array>
+    <string name="title_activity_my_home">MyHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_show">Map</string>
+
+
+
+
+
+
+
+    <string name="edit_mushref">Edit Mushref</string>
+    <string name="Ad_content">Ad content</string>
+    <string name="Post">Post</string>
+    <string name="name">name</string>
+    <string name="phone_number">phone number</string>
+    <string name="Address">Address</string>
+    <string name="Identification_Number">Identification Number</string>
+    <string name="Password">Password</string>
+    <string name="rePassword">RePassword</string>
+    <string name="Save">Save</string>
+    <string name="Number_of_Circle">Number of Circle</string>
+    <string name="description">description</string>
+    <string name="number_of_student">number of student</string>
+    <string name="Add_Musharaf">Add Musharaf</string>
+    <string name="date">date</string>
+    <string name="Register">Register</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="assessment">Assessment</string>
+    <string name="login">login</string>
+    <string name="overallevaluation">Students overall evaluation</string>
+    <string name="show">Show</string>
+    <string name="ListCircle">ListCircle</string>
+    <string name="memorization_sessions">Memorization Sessions</string>
+    <string name="List_of_student">List of student</string>
+    <string name="List_of_Mahfaz">List of Mahfaz</string>
+    <string name="Tasks">Tasks</string>
+    <string name="Student_Assessment">Student assessment</string>
+    <string name="ok">OK</string>
+    <string name="oldPassword">oldPassword</string>
+    <string name="newPassword">newPassword</string>
+    <string name="memorization_circle">Memorization Circle</string>
+    <string name="muhafez">muhafez</string>
+    <string name="registered_student">Registered Student</string>
+    <string name="best_student">Best Student</string>
+    <string name="all_overall_assessment">Over All Assessment</string>
+    <string name="best_muhafez">Best Muhafez</string>
+    <string name="best_circle">Best Circle</string>
+    <string name="Synchronization_period_with_Excel">Synchronization period with Excel</string>
+    <string name="change_pass">Change Password ></string>
+    <string name="active_sms">Active sms ></string>
+    <string name="Logout">Logout ></string>
+    <string name="new_user">New User?</string>
+    <string name="MemorizationCenters">MemorizationCenters</string>
+    <string name="AllData">AllData</string>
+    <string name="Settings">Settings</string>
+    <string name="StudentSms">StudentSMS</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">زهرة القرآن</string>
+    <string name="Ad_content">محتوى الاعلا"</string>
+    <string name="Post">نشر</string>
+    <string name="name">الاسم</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="Address">العنوان</string>
+    <string name="Identification_Number">رقم الهوية</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="rePassword">اعد كلمة المرور</string>
+    <string name="Save">حفظ</string>
+    <string name="Number_of_Circle">عدد الحلقات</string>
+    <string name="description">الوصف</string>
+    <string name="number_of_student">عدد الطلاب</string>
+    <string name="Add_Musharaf">إضافة مشرف</string>
+    <string name="prompt_email">الايميل</string>
+    <string name="date">التاريخ</string>
+    <string name="Register">تسجيل</string>
+    <string name="From">من</string>
+    <string name="To">إلى</string>
+    <string name="assessment">التقييم</string>
+    <string name="overallevaluation">التقييم العام للطالب</string>
+    <string name="show">إظهار</string>
+    <string name="ListCircle">قائمة الحلقات</string>
+    <string name="memorization_sessions">حلقات التحفيظ  ></string>
+    <string name="List_of_student">قائمة الطلاب</string>
+    <string name="List_of_Mahfaz">قائمة المحفظين</string>
+    <string name="Tasks">المهام</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="Student_Assessment">تقييم الطالب</string>
+    <string name="ok">موافق</string>
+    <string name="oldPassword">كلمة المرور القديمة</string>
+    <string name="newPassword">كلمة المرور الجديدة</string>
+    <string name="memorization_circle">حلقة تحفيظ</string>
+    <string name="muhafez">محفظ</string>
+    <string name="registered_student">طالب مسجل</string>
+    <string name="best_student">أفضل طالب</string>
+    <string name="all_overall_assessment">التقييم العام</string>
+    <string name="best_muhafez">أفضل محفظ</string>
+    <string name="best_circle">أفضل حلقة</string>
+    <string name="Synchronization_period_with_Excel">فترة المزامنة مع الاكسل</string>
+    <string name="change_pass">تغيير كلمة المرور </string>
+    <string name="active_sms">تنشيط الرسائل</string>
+    <string name="Logout">تسجيل خروج</string>
+    <string name="new_user">مستخدم جديد؟</string>
+    <string name="MemorizationCenters">مراكز التحفيظ</string>
+    <string name="AllData">كل البيانات</string>
+    <string name="Settings">الإعدادات</string>
+    <string name="StudentSms">رسائل الطالب</string>
+    <string name="edit_mushref">تعديل المشرف</string>
+
+
+
+
+
+
+
+
+
+</resources>
